@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+Title: Welcome to my developing Peanuts World blog
+
+Author: Bwood
 ---
 
